@@ -1,7 +1,6 @@
-
-    <resources>
-        <string name="app_name">LocalizationAssignment</string>
-        <string name="hello">ऑरेंज सिटी मध्ये स्वागत आहे!!</string>
-        <string name="welcome_to_my_home">" गुलाबी शहरात आपले स्वागत आहे!!"</string>
-        <string name="this_is_good_idea">" ग्रीन सिटी मध्ये आपले स्वागत आहे!"</string>
-    </resources>
+<resources>
+    <string name="app_name" translatable="false">LocalizationAssignment</string>
+    <string name="hello">Welcome In Orange City!</string>
+    <string name="welcome_to_my_home">Welcome In Pink City!</string>
+    <string name="this_is_good_idea">Welcome In Green City!</string>
+</resources>

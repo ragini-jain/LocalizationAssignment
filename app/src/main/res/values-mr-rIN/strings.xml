@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">LocalizationAssignment</string>
+    <string name="hello">ऑरेंज सिटी मध्ये स्वागत आहे!</string>
+    <string name="welcome_to_my_home">गुलाबी शहरात आपले स्वागत आहे!</string>
+    <string name="this_is_good_idea">ग्रीन सिटी मध्ये आपले स्वागत आहे!</string>
+
 </resources>
